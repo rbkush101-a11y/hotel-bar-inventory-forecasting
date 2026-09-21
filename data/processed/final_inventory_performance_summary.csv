@@ -1,0 +1,9 @@
+Metric,Value
+Historical zero-closing-balance events,416.0
+Historical stockout event rate (%),6.326996197718632
+Simulated stockout days,47.0
+Simulated stockout observation rate (%),3.9695945945945943
+Simulated lost volume (ml),5149.458042684844
+Bar-Brand combinations simulated,16.0
+Combinations with zero stockout days,7.0
+Combinations requiring attention,9.0
